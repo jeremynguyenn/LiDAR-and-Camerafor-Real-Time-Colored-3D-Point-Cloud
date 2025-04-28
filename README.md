@@ -21,5 +21,4 @@ There is also a video of the mounting process. Feel free to download, if necessa
 | ![LiDAR System](https://github.com/jeremynguyenn/LiDAR-and-Camerafor-Real-Time-Colored-3D-Point-Cloud/blob/main/LiDAR-and-Camera-for-Real-Time-3D-Point-Cloud/Prototype/prototipo_final.png) | 
 
 ## Video demo model
-<video src="https://github.com/jeremynguyenn/LiDAR-and-Camerafor-Real-Time-Colored-3D-Point-Cloud/blob/main/LiDAR-and-Camera-for-Real-Time-3D-Point-Cloud/Prototype/prototype.mp4" controls="controls" style="max-width: 730px;">
-</video>
+[▶️ Watch Demo Video](https://github.com/jeremynguyenn/LiDAR-and-Camerafor-Real-Time-Colored-3D-Point-Cloud/blob/main/LiDAR-and-Camera-for-Real-Time-3D-Point-Cloud/Prototype/prototype.mp4?raw=true)
